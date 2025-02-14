@@ -554,7 +554,7 @@ index:
 # Post Page
 #---------------------------
 post:
-  banner_img: /img/shallwetalk.png
+  banner_img: /public/img/shallwetalk.png
   banner_img_height: 75
   banner_mask_alpha: 0.3
 
