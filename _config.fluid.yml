@@ -482,7 +482,7 @@ footer:
 index:
   # 首页 Banner 头图，可以是相对路径或绝对路径，以下相同
   # Path of Banner image, can be a relative path or an absolute path, the same on other pages
-  banner_img: /img/k歌之王.jpg
+  banner_img: /img/singer.jpg
 
   # 头图高度，屏幕百分比
   # Height ratio of banner image
@@ -554,8 +554,8 @@ index:
 # Post Page
 #---------------------------
 post:
-  banner_img: /img/shallwetalk.png
-  banner_img_height: 80
+  banner_img: /img/friends.jpg
+  banner_img_height: 85
   banner_mask_alpha: 0.3
 
   # 文章在首页的默认封面图，当没有指定 index_img 时会使用该图片，若两者都为空则不显示任何图片
@@ -918,7 +918,7 @@ discuss:
 # Archive Page
 #---------------------------
 archive:
-  banner_img: /img/单车.jpg
+  banner_img: /img/bike.jpg
   banner_img_height: 85
   banner_mask_alpha: 0.3
 
@@ -929,7 +929,7 @@ archive:
 #---------------------------
 category:
   enable: true
-  banner_img: /img/人来人往.webp
+  banner_img: /img/people.webp
   banner_img_height: 90
   banner_mask_alpha: 0.3
 
@@ -958,7 +958,7 @@ category:
 #---------------------------
 tag:
   enable: true
-  banner_img: /img/葡萄成熟时.jpg
+  banner_img: /img/grape.jpg
   banner_img_height: 80
   banner_mask_alpha: 0.3
   tagcloud:
@@ -975,7 +975,7 @@ tag:
 #---------------------------
 about:
   enable: true
-  banner_img: /img/淘汰.jpg
+  banner_img: /img/lose.jpg
   banner_img_height: 90
   banner_mask_alpha: 0.3
   avatar: /img/nezha.ico
