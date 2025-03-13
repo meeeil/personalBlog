@@ -3,13 +3,14 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Dexoi | 个人博客
+title: 新唯能 | 陶瓷
 subtitle: 
-description: 一些技术，一些技巧
-keywords: blog
+description: 新唯能企业
+keywords: 新唯能企业
 author: Du
 language: zh-CN
 timezone: ''
+all_minifier: true
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
@@ -78,7 +79,7 @@ meta_generator: true
 ## You can customize the date format as defined in
 ## http://momentjs.com/docs/#/displaying/format/
 date_format: YYYY-MM-DD
-time_format: HH:mm:ss
+time_format: LTS
 ## updated_option supports 'mtime', 'date', 'empty'
 updated_option: 'mtime'
 
